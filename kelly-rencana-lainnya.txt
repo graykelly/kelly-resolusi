@@ -1,4 +1,6 @@
 Rencana Lainnya
 -Lulus Kuliah Tepat Waktu
 -Perbanyak Pengalaman
--Coba Fitur 2
+-Menguasai Framework PHP
+-Coba Fitur 1
+-Coba Fitur Baru 1
